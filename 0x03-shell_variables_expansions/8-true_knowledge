@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "128\n127"
+echo 128+$((TRUEKNOWLEDGE))
